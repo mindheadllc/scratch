@@ -1,0 +1,1131 @@
+{
+  "asOf": "November 14, 2026",
+  "title": "Beginner Yoga & Pilates \u2014 North of Market, SF",
+  "disclaimer": "Info as of Nov 14, 2026 \u2014 check studio sites to confirm times.",
+  "omitted": [
+    {
+      "name": "Embarcadero YMCA",
+      "address": "169 Steuart Street, San Francisco, CA 94105",
+      "reason": "Geocoded to 37.79254, -122.39199, about 330 m south of Market Street, so it was left off the map."
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc-001",
+      "name": "Chinatown YMCA",
+      "type": "Both",
+      "neighborhood": "Chinatown",
+      "address": "855 Sacramento Street, San Francisco, CA 94108",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=855%20Sacramento%20Street%2C%20San%20Francisco%2C%20CA%2094108",
+      "lat": 37.7932009,
+      "lng": -122.4068842,
+      "beginnerClasses": [
+        "Yoga and Pilates group exercise (times not confirmed this date)"
+      ],
+      "whatMakesBeginner": [
+        "Association group exercise; live grid failed"
+      ],
+      "schedule": "ClassEmbed schedule failed to load 2026-11-14",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Adult membership $91/mo + $149 join fee",
+      "hasIntroOrFree": false,
+      "website": "https://classembed.upacedev.com/schedule/103?gym=Chinatown+YMCA",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-002",
+      "name": "Club Pilates Union Street",
+      "type": "Pilates",
+      "neighborhood": "Cow Hollow",
+      "address": "1515 Union Street, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1515%20Union%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.798408,
+      "lng": -122.424454,
+      "beginnerClasses": [
+        "Intro Class; Level 1 (e.g. Reformer Flow Level 1)"
+      ],
+      "whatMakesBeginner": [
+        "Free 30-min intro; Level 1 is for new or returning students with full guidance"
+      ],
+      "schedule": "Location-page schedule widget not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Free 30-minute Intro Class \u00b7 Drop-in: Single-class price not shown \u00b7 4-class, 8-class, and unlimited plans advertised without dollar amounts",
+      "hasIntroOrFree": true,
+      "website": "https://www.clubpilates.com/location/unionstreet",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-003",
+      "name": "CorePower Yoga Cow Hollow",
+      "type": "Yoga",
+      "neighborhood": "Cow Hollow",
+      "address": "2909 Webster Street, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2909%20Webster%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.7975841,
+      "lng": -122.4341201,
+      "beginnerClasses": [
+        "CorePower Yoga 1 (C1)"
+      ],
+      "whatMakesBeginner": [
+        "Official beginner foundations class"
+      ],
+      "schedule": "Studio schedule widget not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Free Week unlimited for eligible new students \u00b7 Pack/membership dollar amounts not shown",
+      "hasIntroOrFree": true,
+      "website": "https://www.corepoweryoga.com/yoga-studios/ca/san-francisco/cow-hollow",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-004",
+      "name": "Karma Yoga",
+      "type": "Both",
+      "neighborhood": "Cow Hollow",
+      "address": "2219 Filbert Street, San Francisco, CA",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2219%20Filbert%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.7978886,
+      "lng": -122.4360613,
+      "beginnerClasses": [
+        "Yoga: Yin Flow w/ Oils",
+        "Pilates: Hot Pilates (55 min)"
+      ],
+      "whatMakesBeginner": [
+        "Not heated; new and seasoned students welcome. Heated Power/HIIT is not a gentle path (studio says so).",
+        "On the class list but not described as a beginner series"
+      ],
+      "schedule": "In-studio schedule widget not extracted; https://www.karmayoga-studios.com/instudio-schedule | Schedule widget not extracted",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "10 classes in 30 days $79 \u00b7 Drop-in: $36 \u00b7 5-pack $175; 10-pack $330; 20-pack $595; unlimited $230/mo (4-mo autopay); mat/towel rental $5 \u00b7 10 classes in 30 days $79 \u00b7 Drop-in: $36 \u00b7 See Karma Yoga yoga row for packs",
+      "hasIntroOrFree": true,
+      "website": "https://www.karmayoga-studios.com/instudio-schedule",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-005",
+      "name": "The Pad Studios",
+      "type": "Yoga",
+      "neighborhood": "Cow Hollow",
+      "address": "1694 Union Street, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1694%20Union%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.7982429,
+      "lng": -122.4270775,
+      "beginnerClasses": [
+        "Slow Flow & Restore; Restorative Flow + Sound Healing"
+      ],
+      "whatMakesBeginner": [
+        "All-levels; studio welcomes new students; no class titled Beginner"
+      ],
+      "schedule": "Calendar not loaded from official pages",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "30 days unlimited $89 (listed as marked down from $169) \u00b7 5-pack $150 (3 mo); 10-pack $280 (6 mo); mini monthly from $99",
+      "hasIntroOrFree": true,
+      "website": "https://thepadstudios.com/yoga/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-006",
+      "name": "Hot 8 Yoga San Francisco FiDi",
+      "type": "Yoga",
+      "neighborhood": "Downtown / Union Square",
+      "address": "248 Sutter St, San Francisco, CA 94108",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=248%20Sutter%20St%2C%20San%20Francisco%2C%20CA%2094108",
+      "lat": 37.7900397,
+      "lng": -122.4048815,
+      "beginnerClasses": [
+        "Traditional 26 & 2; Wrist-Friendly Hot Power Fusion; Yin"
+      ],
+      "whatMakesBeginner": [
+        "Foundational 26&2; all-levels heat; no class titled Beginner"
+      ],
+      "schedule": "Schedule widget not loaded; see https://www.hot8yoga.com/schedule",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "7 days unlimited $39 (first-timers) \u00b7 10-class pack $369 never expires",
+      "hasIntroOrFree": true,
+      "website": "https://www.hot8yoga.com/studio/san-francisco-fidi",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-007",
+      "name": "BODYROK FiDi",
+      "type": "Pilates",
+      "neighborhood": "Financial District / Embarcadero",
+      "address": "300 Pine Street, San Francisco, CA 94104",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=300%20Pine%20Street%2C%20San%20Francisco%2C%20CA%2094104",
+      "lat": 37.79217,
+      "lng": -122.401103,
+      "beginnerClasses": [
+        "All classes described as beginner-friendly (no named Level 1)"
+      ],
+      "whatMakesBeginner": [
+        "Same BODYROK onboarding policy"
+      ],
+      "schedule": "not shown on pages used",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "not shown",
+      "hasIntroOrFree": false,
+      "website": "https://bodyrok.com/studio/fidi/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-008",
+      "name": "Elevate Pilates",
+      "type": "Pilates",
+      "neighborhood": "Financial District / Embarcadero",
+      "address": "Three Embarcadero Center, Lobby Level (2nd floor), San Francisco, CA 94111",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=3%20Embarcadero%20Center%2C%20San%20Francisco%2C%20CA%2094111",
+      "lat": 37.7949868,
+      "lng": -122.3973119,
+      "beginnerClasses": [
+        "Intro class / Intro level"
+      ],
+      "whatMakesBeginner": [
+        "$15 intro may only be used for Intro level; new reformer clients with <4 group classes must start with intro"
+      ],
+      "schedule": "Timetable not shown on pricing page",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "$15 intro or first 4 classes $100 \u00b7 Drop-in: Mat/barre drop-in listed at $37 and also $32 on same page (confirm); reformer drop-in not clearly extracted \u00b7 Packs and memberships on pricing page; FSA/HSA noted",
+      "hasIntroOrFree": true,
+      "website": "https://www.elevatepilates.net/pricing",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-009",
+      "name": "Active Pilates",
+      "type": "Pilates",
+      "neighborhood": "Inner Richmond",
+      "address": "9 Clement Street, San Francisco, CA 94118",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=9%20Clement%20Street%2C%20San%20Francisco%2C%20CA%2094118",
+      "lat": 37.7830588,
+      "lng": -122.4594025,
+      "beginnerClasses": [
+        "not shown"
+      ],
+      "whatMakesBeginner": [
+        "Small groups tailored to fitness level; no beginner class title or timetable on pages fetched"
+      ],
+      "schedule": "not shown",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Also offers Gyrotonic",
+      "hasIntroOrFree": false,
+      "website": "https://active-pilates.com/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-010",
+      "name": "Folk Yoga Richmond",
+      "type": "Yoga",
+      "neighborhood": "Inner Richmond",
+      "address": "182 6th Avenue, San Francisco, CA",
+      "addressNote": "The studio site printed the zip as \u201c9411\u201d (truncated).",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=182%206th%20Avenue%2C%20San%20Francisco%2C%20CA%2094118",
+      "lat": 37.7853553,
+      "lng": -122.4644938,
+      "beginnerClasses": [
+        "Yoga 101"
+      ],
+      "whatMakesBeginner": [
+        "Monthly first-timer class"
+      ],
+      "schedule": "Official Yoga 101 page this date: no upcoming events",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "First month $79 after 101 (Beginners page) \u00b7 Drop-in: $30 drop-in (Beginners page) \u00b7 Weekly grid not extracted",
+      "hasIntroOrFree": true,
+      "website": "https://folksf.com/classes/schedule/richmond/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-011",
+      "name": "MNTSTUDIO Inner Richmond",
+      "type": "Pilates",
+      "neighborhood": "Inner Richmond",
+      "address": "35 Clement St, San Francisco, CA 94118",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=35%20Clement%20St%2C%20San%20Francisco%2C%20CA%2094118",
+      "lat": 37.7829895,
+      "lng": -122.4596934,
+      "beginnerClasses": [
+        "Mixed-level group Reformer"
+      ],
+      "whatMakesBeginner": [
+        "No named beginner class; same first-timer FAQ as Marina"
+      ],
+      "schedule": "Calendar not extracted",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "2 weeks unlimited $100 \u00b7 Heated Mat described as at SF Marina, not confirmed at Clement",
+      "hasIntroOrFree": true,
+      "website": "https://mntstudio.co/new-to-mnt",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-012",
+      "name": "Richmond District YMCA",
+      "type": "Both",
+      "neighborhood": "Inner Richmond",
+      "address": "360 18th Avenue, San Francisco, CA 94121",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=360%2018th%20Avenue%2C%20San%20Francisco%2C%20CA%2094121",
+      "lat": 37.7812657,
+      "lng": -122.477027,
+      "beginnerClasses": [
+        "Group exercise (yoga/Pilates times not loaded)"
+      ],
+      "whatMakesBeginner": [
+        "YMCA SF branch"
+      ],
+      "schedule": "ClassEmbed failed to load 2026-11-14",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Adult membership $91/mo + $149 join fee",
+      "hasIntroOrFree": false,
+      "website": "https://classembed.upacedev.com/schedule/103?gym=Richmond+District+YMCA",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-013",
+      "name": "SF Rec & Park Richmond Recreation Center",
+      "type": "Yoga",
+      "neighborhood": "Inner Richmond",
+      "address": "251 18th Avenue, San Francisco, CA 94121",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=251%2018th%20Avenue%2C%20San%20Francisco%2C%20CA%2094121",
+      "lat": 37.7833156,
+      "lng": -122.4781116,
+      "beginnerClasses": [
+        "Yoga - Hatha Traditional"
+      ],
+      "whatMakesBeginner": [
+        "Foundational hatha; catalog does not label it beginner; ages 18+"
+      ],
+      "schedule": "Thu 6:30-7:30pm 9/3-10/8 #48917 $96; Thu 6:30-7:30pm 10/29-12/10 #48978 $96",
+      "scheduleLabel": "Thu 6:30-7:30pm 9/3-10/8 #48917 $96; Thu 6:30-7:30pm 10/29-12/10 #48978 $96",
+      "hasPostedTimes": true,
+      "days": [
+        "Thu"
+      ],
+      "timesOfDay": [
+        "Evening"
+      ],
+      "price": "Session fee $96 \u00b7 Drop-in: not a drop-in in the catalog",
+      "hasIntroOrFree": false,
+      "website": "https://sfrecpark.org/Facilities/Facility/Details/105",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-014",
+      "name": "[solidcore] Marina",
+      "type": "Pilates",
+      "neighborhood": "Marina",
+      "address": "3225 Fillmore St, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=3225%20Fillmore%20St%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.7992619,
+      "lng": -122.4362074,
+      "beginnerClasses": [
+        "Starter50 (brand beginner/intro class)"
+      ],
+      "whatMakesBeginner": [
+        "Machine tutorial, slower pace, programmed rest; not confirmed on this studio calendar this date"
+      ],
+      "schedule": "Studio schedule widget did not list class names/times 2026-11-14",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Starter50 is a brand format; confirm it is scheduled here",
+      "hasIntroOrFree": false,
+      "website": "https://solidcore.co/studios/marina",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-015",
+      "name": "Body Temp Yoga",
+      "type": "Both",
+      "neighborhood": "Marina",
+      "address": "2425 Chestnut Street, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2425%20Chestnut%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.7996973,
+      "lng": -122.4433095,
+      "beginnerClasses": [
+        "Yoga: Hot 26; also start with Hot Power Yoga per FAQ",
+        "Pilates: Hot Pilates"
+      ],
+      "whatMakesBeginner": [
+        "Hot 26: one pose at a time, ideal for beginners",
+        "FAQ: no experience needed; mat Pilates at ~95F"
+      ],
+      "schedule": "Live schedule widget not loaded 2026-11-14 | Schedule widget not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "2 weeks unlimited $49 (new clients, non-renewing) \u00b7 Mat rental $2; monthly/packs behind widget \u00b7 2 weeks unlimited $49 (covers all formats) \u00b7 Same intro as yoga",
+      "hasIntroOrFree": true,
+      "website": "https://bodytempyoga.com/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-016",
+      "name": "BODYROK Marina",
+      "type": "Pilates",
+      "neighborhood": "Marina",
+      "address": "2128 Lombard St, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2128%20Lombard%20St%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.8000665,
+      "lng": -122.4366535,
+      "beginnerClasses": [
+        "All classes described as beginner-friendly (no named Level 1)"
+      ],
+      "whatMakesBeginner": [
+        "Instructor onboards new clients and offers modifications"
+      ],
+      "schedule": "Schedule widget not extracted",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "not shown",
+      "hasIntroOrFree": false,
+      "website": "https://bodyrok.com/studio/marina/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-017",
+      "name": "CorePower Yoga The Marina",
+      "type": "Yoga",
+      "neighborhood": "Marina",
+      "address": "2349 Lombard Street, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2349%20Lombard%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.7991265,
+      "lng": -122.4400422,
+      "beginnerClasses": [
+        "CorePower Yoga 1 (C1)"
+      ],
+      "whatMakesBeginner": [
+        "Official beginner Power Vinyasa foundations class"
+      ],
+      "schedule": "Studio schedule widget not loaded; C1 times at this studio not confirmed",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Free Week unlimited for eligible new students \u00b7 Membership and pack dollar amounts not shown (vary by studio)",
+      "hasIntroOrFree": true,
+      "website": "https://www.corepoweryoga.com/yoga-studios/ca/san-francisco/the-marina",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-018",
+      "name": "Hot 8 Yoga San Francisco Marina",
+      "type": "Yoga",
+      "neighborhood": "Marina",
+      "address": "3322 Fillmore St., San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=3322%20Fillmore%20St.%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.8003204,
+      "lng": -122.4358479,
+      "beginnerClasses": [
+        "Traditional 26 & 2; Wrist-Friendly Hot Power Fusion; Yin"
+      ],
+      "whatMakesBeginner": [
+        "Foundational 26&2 sequence; all-levels heat; no class titled Beginner"
+      ],
+      "schedule": "Schedule widget not loaded; see https://www.hot8yoga.com/schedule",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "7 days unlimited $39 (first-timers) \u00b7 10-class pack $369 never expires",
+      "hasIntroOrFree": true,
+      "website": "https://www.hot8yoga.com/studio/san-francisco-marina",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-019",
+      "name": "SF Rec & Park Moscone Recreation Center",
+      "type": "Yoga",
+      "neighborhood": "Marina",
+      "address": "1800 Chestnut St. at Buchanan St, San Francisco, CA",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1800%20Chestnut%20Street%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.801298,
+      "lng": -122.433128,
+      "beginnerClasses": [
+        "Hatha Flow Yoga for Strength & Balance"
+      ],
+      "whatMakesBeginner": [
+        "Slower paced, inclusive; ages 55+; not labeled beginner"
+      ],
+      "schedule": "Tue 10:15-11:15am 9/8-12/15 #48817; Fri 10:15-11:15am 9/11-12/18 #48818",
+      "scheduleLabel": "Tue 10:15-11:15am 9/8-12/15 #48817; Fri 10:15-11:15am 9/11-12/18 #48818",
+      "hasPostedTimes": true,
+      "days": [
+        "Tue",
+        "Fri"
+      ],
+      "timesOfDay": [
+        "Morning"
+      ],
+      "price": "Free",
+      "hasIntroOrFree": true,
+      "website": "https://sfrecpark.org/register",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-020",
+      "name": "MNTSTUDIO Marina",
+      "type": "Pilates",
+      "neighborhood": "Marina / Cow Hollow",
+      "address": "2154 Union St, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2154%20Union%20St%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.797415,
+      "lng": -122.4348066,
+      "beginnerClasses": [
+        "Mixed-level group Reformer; Heated Mat Pilates"
+      ],
+      "whatMakesBeginner": [
+        "No named beginner class; FAQ says first-timers OK in mixed-level if uninjured"
+      ],
+      "schedule": "Calendar not extracted from new-to-MNT page",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "2 weeks unlimited $100 \u00b7 Grip socks required; trial valid at all studios",
+      "hasIntroOrFree": true,
+      "website": "https://mntstudio.co/new-to-mnt",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-021",
+      "name": "Sage Pilates",
+      "type": "Pilates",
+      "neighborhood": "Marina / Cow Hollow",
+      "address": "2399 Greenwich St, San Francisco, CA 94123",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2399%20Greenwich%20St%2C%20San%20Francisco%2C%20CA%2094123",
+      "lat": 37.798471,
+      "lng": -122.438986,
+      "beginnerClasses": [
+        "Full Body Mat Pilates; Full Body Reformer Pilates"
+      ],
+      "whatMakesBeginner": [
+        "Modifications always offered; no class titled Beginner or Level 1 on homepage"
+      ],
+      "schedule": "Times not shown",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Reformer classes use 6 reformers",
+      "hasIntroOrFree": false,
+      "website": "https://www.sagepilatessf.com/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-022",
+      "name": "Club Pilates NoPa",
+      "type": "Pilates",
+      "neighborhood": "NoPa",
+      "address": "1720 Fulton Street, San Francisco, CA 94117",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1720%20Fulton%20Street%2C%20San%20Francisco%2C%20CA%2094117",
+      "lat": 37.7761784,
+      "lng": -122.4454126,
+      "beginnerClasses": [
+        "Intro Class; Level 1"
+      ],
+      "whatMakesBeginner": [
+        "Free 30-min intro; Level 1 for new or returning students"
+      ],
+      "schedule": "Location-page schedule widget not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Free 30-minute Intro Class \u00b7 Drop-in: Single-class price not shown \u00b7 4-class, 8-class, and unlimited plans advertised without dollar amounts",
+      "hasIntroOrFree": true,
+      "website": "https://www.clubpilates.com/location/nopa",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-023",
+      "name": "CorePower Yoga NoPa",
+      "type": "Yoga",
+      "neighborhood": "NoPa",
+      "address": "619 Divisadero Street, San Francisco, CA 94117",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=619%20Divisadero%20Street%2C%20San%20Francisco%2C%20CA%2094117",
+      "lat": 37.7752192,
+      "lng": -122.4379963,
+      "beginnerClasses": [
+        "CorePower Yoga 1 (C1)"
+      ],
+      "whatMakesBeginner": [
+        "Official beginner foundations class"
+      ],
+      "schedule": "Studio schedule widget not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Free Week unlimited for eligible new students \u00b7 Pack/membership dollar amounts not shown",
+      "hasIntroOrFree": true,
+      "website": "https://www.corepoweryoga.com/yoga-studios/ca/san-francisco/nopa",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-024",
+      "name": "Folk Yoga NOPA",
+      "type": "Yoga",
+      "neighborhood": "NoPa / Lower Haight",
+      "address": "286 Divisadero St, San Francisco, CA 94117",
+      "addressNote": "Street number was widely listed; it was not printed on the studio location page fetched Nov 14, 2026.",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=286%20Divisadero%20Street%2C%20San%20Francisco%2C%20CA%2094117",
+      "lat": 37.7718962,
+      "lng": -122.4373248,
+      "beginnerClasses": [
+        "Yoga 101"
+      ],
+      "whatMakesBeginner": [
+        "Monthly first-timer class on basic poses and props"
+      ],
+      "schedule": "Official Yoga 101 page this date: no upcoming events",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "First month $79 after 101 (Beginners page) \u00b7 Drop-in: $30 drop-in (Beginners page) \u00b7 Mat rental policy differs across Folk pages",
+      "hasIntroOrFree": true,
+      "website": "https://folksf.com/yoga-101/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-025",
+      "name": "CorePower Yoga Nob Hill",
+      "type": "Yoga",
+      "neighborhood": "Nob Hill",
+      "address": "1900 Van Ness Avenue, San Francisco, CA 94109",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1900%20Van%20Ness%20Avenue%2C%20San%20Francisco%2C%20CA%2094109",
+      "lat": 37.7932715,
+      "lng": -122.4225187,
+      "beginnerClasses": [
+        "CorePower Yoga 1 (C1)"
+      ],
+      "whatMakesBeginner": [
+        "Official beginner foundations class"
+      ],
+      "schedule": "Studio schedule widget not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Free Week unlimited for eligible new students \u00b7 Pack/membership dollar amounts not shown",
+      "hasIntroOrFree": true,
+      "website": "https://www.corepoweryoga.com/yoga-studios/ca/san-francisco/nob-hill",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-026",
+      "name": "BODYROK Polk",
+      "type": "Pilates",
+      "neighborhood": "Nob Hill / Polk Gulch",
+      "address": "1850 Polk Street, San Francisco, CA 94109",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1850%20Polk%20Street%2C%20San%20Francisco%2C%20CA%2094109",
+      "lat": 37.7940481,
+      "lng": -122.4212538,
+      "beginnerClasses": [
+        "All classes described as beginner-friendly (no named Level 1)"
+      ],
+      "whatMakesBeginner": [
+        "Onboarding and modifications; no separately named beginner class"
+      ],
+      "schedule": "not shown on pages used",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "not shown",
+      "hasIntroOrFree": false,
+      "website": "https://bodyrok.com/studio/polk/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-027",
+      "name": "Nob Hill Yoga",
+      "type": "Yoga",
+      "neighborhood": "Nob Hill / Russian Hill",
+      "address": "1106 Pacific Ave, San Francisco, CA 94133",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1106%20Pacific%20Ave%2C%20San%20Francisco%2C%20CA%2094133",
+      "lat": 37.7961379,
+      "lng": -122.4136007,
+      "beginnerClasses": [
+        "Yin Yoga; all-levels vinyasa (no class titled Beginner on homepage)"
+      ],
+      "whatMakesBeginner": [
+        "Homepage: classes from complete beginners to longtime practitioners"
+      ],
+      "schedule": "Calendar not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Also lists Mat Pilates",
+      "hasIntroOrFree": false,
+      "website": "https://nobhill.yoga/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-028",
+      "name": "SF Rec & Park Joe DiMaggio Playground",
+      "type": "Yoga",
+      "neighborhood": "North Beach",
+      "address": "651 Lombard St., San Francisco, CA",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=651%20Lombard%20St.%2C%20San%20Francisco%2C%20CA",
+      "lat": 37.8028487,
+      "lng": -122.4122092,
+      "beginnerClasses": [
+        "Yoga - Hatha Traditional"
+      ],
+      "whatMakesBeginner": [
+        "Foundational hatha; catalog does not label it beginner; ages 18+"
+      ],
+      "schedule": "Mon 12-1pm 9/14-10/5 #48909 $64; Mon 12-1pm 10/26-12/7 #48970 $96",
+      "scheduleLabel": "Mon 12-1pm 9/14-10/5 #48909 $64; Mon 12-1pm 10/26-12/7 #48970 $96",
+      "hasPostedTimes": true,
+      "days": [
+        "Mon"
+      ],
+      "timesOfDay": [
+        "Afternoon"
+      ],
+      "price": "Session fee $64 or $96 \u00b7 Drop-in: not a drop-in in the catalog",
+      "hasIntroOrFree": false,
+      "website": "https://sfrecpark.org/register",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-029",
+      "name": "Purusha Yoga + Pilates",
+      "type": "Both",
+      "neighborhood": "Outer Richmond",
+      "address": "3729 Balboa St, San Francisco, CA 94121",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=3729%20Balboa%20St%2C%20San%20Francisco%2C%20CA%2094121",
+      "lat": 37.7754506,
+      "lng": -122.498881,
+      "beginnerClasses": [
+        "Beginner yoga classes (incl. Hatha Yoga for Beginners on Momence); Pilates also offered"
+      ],
+      "whatMakesBeginner": [
+        "Studio FAQ: variety of beginner yoga classes; times not on widget fetch"
+      ],
+      "schedule": "Class-schedule widget times not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Mat rental a small fee (amount not shown)",
+      "hasIntroOrFree": false,
+      "website": "https://purushayoga.org/class-schedule/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-030",
+      "name": "The Yoga Shala SF Balboa Street",
+      "type": "Yoga",
+      "neighborhood": "Outer Richmond",
+      "address": "2010 Balboa Street, San Francisco, CA",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2010%20Balboa%20Street%2C%20San%20Francisco%2C%20CA%2094121",
+      "lat": 37.7765694,
+      "lng": -122.4804138,
+      "beginnerClasses": [
+        "not shown on official pages fetched (do not assume Power Vinyasa is beginner)"
+      ],
+      "whatMakesBeginner": [
+        "Beginner-named class not verified on official site"
+      ],
+      "schedule": "https://theyogashalasf.com/schedule (times not extracted)",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "First month $59 (auto-renew); one week unlimited $57 \u00b7 Drop-in: normally $35 per class (stated on sale pack page) \u00b7 Mini 4 classes/mo $89; other packs on pricing page",
+      "hasIntroOrFree": true,
+      "website": "https://theyogashalasf.com/schedule",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-031",
+      "name": "Arise Yoga San Francisco",
+      "type": "Yoga",
+      "neighborhood": "Pacific Heights",
+      "address": "2799 California St, San Francisco, CA",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2799%20California%20Street%2C%20San%20Francisco%2C%20CA%2094115",
+      "lat": 37.788011,
+      "lng": -122.44022,
+      "beginnerClasses": [
+        "not shown (all skill levels welcome on homepage)"
+      ],
+      "whatMakesBeginner": [
+        "No class titled Beginner on homepage fetch"
+      ],
+      "schedule": "Weekly calendar not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "not shown",
+      "hasIntroOrFree": false,
+      "website": "https://www.arise.yoga/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-032",
+      "name": "Body Tonic SF",
+      "type": "Yoga",
+      "neighborhood": "Pacific Heights / Lower Pac Heights",
+      "address": "1586 Bush St at Franklin, San Francisco, CA 94109",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1586%20Bush%20Street%2C%20San%20Francisco%2C%20CA%2094109",
+      "lat": 37.7885101,
+      "lng": -122.4233024,
+      "beginnerClasses": [
+        "Level 1 Hot Yoga"
+      ],
+      "whatMakesBeginner": [
+        "Beginner-friendly 41-posture sequence; max 20 students"
+      ],
+      "schedule": "Schedule widget not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "60 days unlimited yoga $57",
+      "hasIntroOrFree": true,
+      "website": "https://bodytonicsf.com/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-033",
+      "name": "Baptiste Power Yoga San Francisco",
+      "type": "Yoga",
+      "neighborhood": "Presidio",
+      "address": "38 Mesa St, San Francisco, CA 94129",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=38%20Mesa%20St%2C%20San%20Francisco%2C%20CA%2094129",
+      "lat": 37.7977785,
+      "lng": -122.4577619,
+      "beginnerClasses": [
+        "Baptiste Power Vinyasa (all-levels; no class titled Beginner)"
+      ],
+      "whatMakesBeginner": [
+        "FAQ: beginners welcome; heated to 90 degrees"
+      ],
+      "schedule": "Calendar not loaded from homepage/FAQ",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "First 2 weeks unlimited $49 \u00b7 Drop-in: Student/military drop-in $30 (ID); regular drop-in not shown \u00b7 Towel rental $2",
+      "hasIntroOrFree": true,
+      "website": "https://www.baptistepoweryogasf.com/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-034",
+      "name": "Presidio Community YMCA",
+      "type": "Both",
+      "neighborhood": "Presidio",
+      "address": "63 Funston Avenue, San Francisco, CA 94129",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=63%20Funston%20Avenue%2C%20San%20Francisco%2C%20CA%2094129",
+      "lat": 37.7997091,
+      "lng": -122.4547549,
+      "beginnerClasses": [
+        "Yoga and Pilates group exercise (specific beginner names not confirmed this date)"
+      ],
+      "whatMakesBeginner": [
+        "Association offers yoga/Pilates; live grid failed"
+      ],
+      "schedule": "ClassEmbed schedule failed to load 2026-11-14",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Adult membership $91/mo + $149 join fee; Try the Y For Free pass (dollar amount not shown) \u00b7 Financial assistance available",
+      "hasIntroOrFree": true,
+      "website": "https://classembed.upacedev.com/schedule/103?gym=Presidio+Community+YMCA",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-035",
+      "name": "[solidcore] Laurel Village",
+      "type": "Pilates",
+      "neighborhood": "Presidio Heights / Laurel Village",
+      "address": "3407 California Street, San Francisco, CA 94118",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=3407%20California%20Street%2C%20San%20Francisco%2C%20CA%2094118",
+      "lat": 37.7865372,
+      "lng": -122.4502566,
+      "beginnerClasses": [
+        "Starter50 (brand beginner/intro class)"
+      ],
+      "whatMakesBeginner": [
+        "Brand beginner format; not confirmed on this studio calendar this date"
+      ],
+      "schedule": "Studio schedule widget did not list class names/times 2026-11-14",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Confirm Starter50 is scheduled here",
+      "hasIntroOrFree": false,
+      "website": "https://solidcore.co/studios/laurel-village",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-036",
+      "name": "JCCSF Fitness Center",
+      "type": "Both",
+      "neighborhood": "Presidio Heights / Laurel Village",
+      "address": "3200 California Street, San Francisco, CA 94118",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=3200%20California%20Street%2C%20San%20Francisco%2C%20CA%2094118",
+      "lat": 37.7873854,
+      "lng": -122.4478439,
+      "beginnerClasses": [
+        "Gentle Yoga; Pilates Mat; Pilates Reformer"
+      ],
+      "whatMakesBeginner": [
+        "Gentle Yoga is the beginner-appropriate yoga offering; new members get complimentary Pilates sessions"
+      ],
+      "schedule": "App/website calendar times not loaded",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Membership required; dollar amounts not shown \u00b7 Month-to-month membership; class reservation 7 days ahead (reformer 30 days per program page)",
+      "hasIntroOrFree": false,
+      "website": "https://www.jccsf.org/program/mind-body-renewal/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-037",
+      "name": "Mighty Pilates Presidio Heights",
+      "type": "Pilates",
+      "neighborhood": "Presidio Heights / Laurel Village",
+      "address": "3654 Sacramento Street, San Francisco, CA 94118",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=3654%20Sacramento%20Street%2C%20San%20Francisco%2C%20CA%2094118",
+      "lat": 37.7877067,
+      "lng": -122.4529591,
+      "beginnerClasses": [
+        "not shown"
+      ],
+      "whatMakesBeginner": [
+        "Beginner class names not on Find-a-Class fetch"
+      ],
+      "schedule": "not shown",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Address confirmed; details not shown",
+      "hasIntroOrFree": false,
+      "website": "https://www.mightypilates.com/find-a-class/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-038",
+      "name": "Mighty Pilates Russian Hill",
+      "type": "Pilates",
+      "neighborhood": "Russian Hill / Polk Gulch",
+      "address": "2022 Polk St, San Francisco, CA 94109",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=2022%20Polk%20St%2C%20San%20Francisco%2C%20CA%2094109",
+      "lat": 37.7953133,
+      "lng": -122.4215355,
+      "beginnerClasses": [
+        "not shown"
+      ],
+      "whatMakesBeginner": [
+        "Beginner class names not on Find-a-Class fetch"
+      ],
+      "schedule": "not shown",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Address confirmed; details not shown",
+      "hasIntroOrFree": false,
+      "website": "https://www.mightypilates.com/find-a-class/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-039",
+      "name": "GLIDE Yoga",
+      "type": "Yoga",
+      "neighborhood": "Tenderloin",
+      "address": "330 Ellis St, San Francisco, CA 94102 (Sanctuary; room may change)",
+      "addressNote": "Class is usually in the Sanctuary; the room can change \u2014 check the front desk on arrival.",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=330%20Ellis%20Street%2C%20San%20Francisco%2C%20CA%2094102",
+      "lat": 37.7853266,
+      "lng": -122.4117173,
+      "beginnerClasses": [
+        "All-levels accessible yoga"
+      ],
+      "whatMakesBeginner": [
+        "No experience needed; free community class"
+      ],
+      "schedule": "Tuesdays 4:30-5:30pm",
+      "scheduleLabel": "Tuesdays 4:30-5:30pm",
+      "hasPostedTimes": true,
+      "days": [
+        "Tue"
+      ],
+      "timesOfDay": [
+        "Afternoon"
+      ],
+      "price": "Free (donations welcome) \u00b7 Drop-in: Free drop-in / walk-ins welcome \u00b7 Mats and props provided",
+      "hasIntroOrFree": true,
+      "website": "https://www.glide.org/yoga/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-040",
+      "name": "Shih Yu-Lang Central YMCA",
+      "type": "Both",
+      "neighborhood": "Tenderloin",
+      "address": "246 Eddy Street, San Francisco, CA 94102",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=246%20Eddy%20Street%2C%20San%20Francisco%2C%20CA%2094102",
+      "lat": 37.7841126,
+      "lng": -122.4118366,
+      "beginnerClasses": [
+        "Group exercise (yoga/Pilates times not loaded)"
+      ],
+      "whatMakesBeginner": [
+        "YMCA SF branch north of Market"
+      ],
+      "schedule": "Live schedule not loaded for this branch this date",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Adult membership $91/mo + $149 join fee",
+      "hasIntroOrFree": false,
+      "website": "https://www.ymcasf.org/locations/",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-041",
+      "name": "SF Rec & Park Hamilton Recreation Center",
+      "type": "Yoga",
+      "neighborhood": "Western Addition",
+      "address": "1900 Geary Boulevard at Steiner St, San Francisco, CA",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1900%20Geary%20Boulevard%2C%20San%20Francisco%2C%20CA%2094115",
+      "lat": 37.7845624,
+      "lng": -122.4353242,
+      "beginnerClasses": [
+        "Yoga - Hatha Traditional"
+      ],
+      "whatMakesBeginner": [
+        "Foundational hatha; catalog does not label it beginner; ages 18+"
+      ],
+      "schedule": "Wed 6:30-7:30pm 9/2-10/7 #48912 $96; Wed 6:30-7:30pm 10/28-12/9 #48973 $80",
+      "scheduleLabel": "Wed 6:30-7:30pm 9/2-10/7 #48912 $96; Wed 6:30-7:30pm 10/28-12/9 #48973 $80",
+      "hasPostedTimes": true,
+      "days": [
+        "Wed"
+      ],
+      "timesOfDay": [
+        "Evening"
+      ],
+      "price": "Session fee $96 or $80 \u00b7 Drop-in: not a drop-in in the catalog",
+      "hasIntroOrFree": false,
+      "website": "https://sfrecpark.org/facilities/facility/details/Hamilton-Rec-Center-93",
+      "dateRead": "2026-11-14"
+    },
+    {
+      "id": "loc-042",
+      "name": "Buchanan YMCA",
+      "type": "Both",
+      "neighborhood": "Western Addition / Japantown",
+      "address": "1530 Buchanan Street, San Francisco, CA 94115",
+      "addressNote": "",
+      "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=1530%20Buchanan%20Street%2C%20San%20Francisco%2C%20CA%2094115",
+      "lat": 37.7842386,
+      "lng": -122.4291749,
+      "beginnerClasses": [
+        "Group exercise (yoga/Pilates times not loaded)"
+      ],
+      "whatMakesBeginner": [
+        "YMCA SF branch north of Market"
+      ],
+      "schedule": "Live schedule not loaded for this branch this date",
+      "scheduleLabel": "Times not posted \u2014 see schedule",
+      "hasPostedTimes": false,
+      "days": [],
+      "timesOfDay": [],
+      "price": "Adult membership $91/mo + $149 join fee",
+      "hasIntroOrFree": false,
+      "website": "https://www.ymcasf.org/locations/",
+      "dateRead": "2026-11-14"
+    }
+  ]
+}
